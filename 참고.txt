@@ -1,0 +1,2 @@
+강의에 따라 작성되는 프로그램
+simple-tailwind-starter를 복사해서 시작하는 프로그램
